@@ -1,0 +1,9 @@
+capas (controladores, negocio, acceso a datos)
+mvc
+niveles
+inyeccion de dependencias
+fachada
+repositorio / encapsula el acceso a los datos
+dto - trasferencia entre cliente y servidor
+
+Explicación de las clases que conforman el servicio REST
